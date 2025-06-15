@@ -6,7 +6,7 @@ This project simulates how the gustatory cortex might encode fruit taste profile
 - Sweetness (based on sugar content)
 - Sourness (based on acidity)
 - Bitterness (estimated)
-- Umami (estimated)
+- 감칠맛 (estimated)
 
 ## Fruits
 - 살구, 복숭아, 딸기, 사과, 파인애플, 망고, 포도
